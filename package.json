@@ -1,0 +1,23 @@
+{
+	"name": "uisfoodtwitter-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "doppler run --command=\"node .\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/big7star/uisfoodtwitter-bot.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/big7star/uisfoodtwitter-bot/issues"
+	},
+	"homepage": "https://github.com/big7star/uisfoodtwitter-bot#readme",
+	"dependencies": {
+		"discord.js": "^14.6.0",
+		"undici": "^5.12.0"
+	}
+}
